@@ -50,3 +50,5 @@ print(f"O'Tooley: {str((OTooley / total_votes) * 100)}% ({str(OTooley)})")
 
 if Khan > Correy:
     print("Winner: Khan")
+else:
+    print("Winner: Correy")
